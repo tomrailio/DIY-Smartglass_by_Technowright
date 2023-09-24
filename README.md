@@ -6,3 +6,7 @@ DHT11 Temp/Hum sensor
 DS3231 RTC
 ARduino Nano(Atmega328P)
 OLED display
+
+
+See also www.amazon for the E.d.i.t.h. glasses.
+
